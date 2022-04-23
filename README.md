@@ -10,3 +10,6 @@ IOT Sunrise Alarm Clock
 6. PLA filament
 7. Super glue
 8. 3D Printer
+### Apps:
+1. Sleep as Android
+2. Tasker
