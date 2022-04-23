@@ -6,6 +6,7 @@ IOT Sunrise Alarm Clock
 2. 12V 5A DC Power Supply
 3. Female DC Power plug (5.5 x 2.5mm)
 4. ESP 8266 Dev Board
-5. PLA filament
-6. Super glue
-7. 3D Printer
+5. Acrylic Panel
+6. PLA filament
+7. Super glue
+8. 3D Printer
