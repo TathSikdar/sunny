@@ -13,3 +13,7 @@ IOT Sunrise Alarm Clock
 ### Apps:
 1. Sleep as Android
 2. Tasker
+#### Sleep as Android Tasker integration:
+1. In Sleep as Android, Enable tasker automation with the following:
+      Settings > Services > Automation > Select Tasker
+2. 
