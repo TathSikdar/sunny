@@ -11,11 +11,11 @@
 #define BOOTUP_SUCCESS_LIGHT_TIME 4320
 CRGBArray<NUM_LEDS> leds; 
 
-IPAddress ip(192, 168, 1, 145);
-IPAddress gateway(192, 168, 1, 1);
-IPAddress subnet(255, 255, 255, 0);
-const char* ssid = "Sikdar";
-const char* password = "suvrajit";
+IPAddress ip(, , , );
+IPAddress gateway(, , , );
+IPAddress subnet(, , , );
+const char* ssid = "";
+const char* password = "";
 int lightmode = 0; //0-off | 1-on | 2-presunrise | 3-sunrise | 4-snooze | 5 dismiss |
 //Colour definitions
 const CHSV DISMISS_COLORS = CHSV(40, 90, 150);
