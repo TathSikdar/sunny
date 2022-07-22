@@ -16,4 +16,5 @@ IOT Sunrise Alarm Clock
 #### Sleep as Android Tasker integration:
 1. In Sleep as Android, Enable tasker automation with the following:
       Settings > Services > Automation > Select Tasker
-2. 
+2. Set adequite delay and HTTP Request to http://**incert IP here**/sunrise on Sleep Smart period event| For sunrise alarm
+3. Set adequite delay and HTTP Request to http://**incert IP here**/off on Sleep Alarm dismiss event| For sunrise off after dismiss
