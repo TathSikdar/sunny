@@ -1,6 +1,6 @@
 # Sunny - IOT Sunrise Alarm Clock
 
-## Materials:
+### Materials:
 1. WS2815 12V RGB LED Strip (1m - 144led/m)
 2. 12V 5A DC Power Supply
 3. Female DC Power plug (5.5 x 2.5mm)
